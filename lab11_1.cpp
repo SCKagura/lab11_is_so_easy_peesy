@@ -29,7 +29,7 @@ int main(){
 		}
 		else if(grade=='D') 
 		{
-			count[3]++ ;
+			3count[]++ ;
 			student++ ;
 		}
 		else if(grade=='F')
